@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iChat.Service", "iChat.Service\iChat.Service.csproj", "{B6BD2C20-1AE8-49C1-B598-2B21A26D26C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iChat.HostConsole", "iChat.Host.Console\iChat.HostConsole.csproj", "{63F2F8EB-6148-4851-9863-4B55A4B12E24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iChat.Client", "iChat.Client\iChat.Client.csproj", "{722D5847-9AF4-4158-AB15-D0E6107EEA95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6BD2C20-1AE8-49C1-B598-2B21A26D26C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6BD2C20-1AE8-49C1-B598-2B21A26D26C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6BD2C20-1AE8-49C1-B598-2B21A26D26C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6BD2C20-1AE8-49C1-B598-2B21A26D26C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63F2F8EB-6148-4851-9863-4B55A4B12E24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63F2F8EB-6148-4851-9863-4B55A4B12E24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63F2F8EB-6148-4851-9863-4B55A4B12E24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63F2F8EB-6148-4851-9863-4B55A4B12E24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{722D5847-9AF4-4158-AB15-D0E6107EEA95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{722D5847-9AF4-4158-AB15-D0E6107EEA95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{722D5847-9AF4-4158-AB15-D0E6107EEA95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{722D5847-9AF4-4158-AB15-D0E6107EEA95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

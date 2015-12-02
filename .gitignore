@@ -1,0 +1,7 @@
+/packages
+/iChat.Client/bin
+/iChat.Client/obj
+/iChat.Service/obj
+/iChat.Service/bin
+/iChat.Host.Console/obj
+/iChat.Host.Console/bin
